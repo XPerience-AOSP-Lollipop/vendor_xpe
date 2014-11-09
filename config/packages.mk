@@ -13,9 +13,7 @@ PRODUCT_PACKAGES += \
     audio_effects.conf \
     DSPManager \
     libcyanogen-dsp \
-    MonthCalendarWidget \
-    OpenDelta \
-    OmniSwitch
+    MonthCalendarWidget
 
 PRODUCT_PACKAGES += \
     CellBroadcastReceiver
@@ -38,4 +36,3 @@ PRODUCT_PACKAGES += \
     ntfsfix \
     ntfs-3g \
     mkntfs
-
